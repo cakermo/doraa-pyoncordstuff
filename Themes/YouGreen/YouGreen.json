@@ -279,7 +279,14 @@
 		  "ic_send": "#9CE19E",
 		  "NitroWheelIcon": "#9CE19E",
 		  "down_arrow": "#9CE19E"
-            }
+       }
+   
+    "background": {
+        "blur": 0.1,
+        "url": "https://i.imgur.com/FpONHmW.png",
+        "alpha": 0.4
+    },
+    
     },
     "spec": 2
     }

@@ -280,6 +280,11 @@
 		  "NitroWheelIcon": "#B1B1B1",
 		  "down_arrow": "#B1B1B1"
             }
+   "background": {
+        "blur": 0.1,
+        "url": "https://i.imgur.com/FpONHmW.png",
+        "alpha": 0.4
+    },
     },
     "spec": 2
     }
